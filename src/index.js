@@ -24,7 +24,6 @@ function runProgram() {
             var action = program.args[0];
             var fileName = (program.args[1] && typeof(program.args[1]) === 'string') ? program.args[1] : "";
             var directory = (program.args[2] && typeof(program.args[2]) === 'string'  ) ? program.args[2] : "";
-            console.log(directory);            
             switch (program.args[0]) {
                 case 'c':
                     createComponentBundle(fileName, directory);
