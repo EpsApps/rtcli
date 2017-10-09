@@ -5,8 +5,10 @@
 1. Install the package globally
     ```npm install rtcli -g```
 2. CD to your local project
-3. Create a component at src/components
+3. Create a component at src/components/MyComponent
     ```rtcli c MyComponent```
+4. Create a component at src/pages/Home/Home
+    ```rtcli c Home src/pages/Home```
 
 ## Dependencies
 
