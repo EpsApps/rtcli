@@ -1,4 +1,5 @@
 # React TypeScript Command Line Interface
+A command line tool for creating React boilerplate in TypeScript. 
 
 ## Usage
 

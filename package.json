@@ -1,6 +1,6 @@
 {
   "name": "rtcli",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "React Typescript Command Line Interface: A command line tool for creating React boilerplate in TypeScript",
   "main": "./srcnpm/index.js",
   "scripts": {
@@ -34,6 +34,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EpsApps/rtclinpm"
+    "url": "https://github.com/EpsApps/rtcli"
   }
 }
