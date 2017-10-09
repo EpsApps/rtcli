@@ -6,7 +6,7 @@
     ```npm install rtcli -g```
 2. CD to your local project
 3. Create a component at src/components
-    ```rtcli c ```
+    ```rtcli c MyComponent```
 
 ## Dependencies
 
