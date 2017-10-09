@@ -1,0 +1,35 @@
+{
+  "name": "rtcli",
+  "version": "0.0.1",
+  "description": "React Typescript Command Line Interface: A command line tool for creating React boilerplate in TypeScript",
+  "main": "./srcnpm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Michael Epstein",
+    "email": "michael@epsapps.com",
+    "url": "epsapps.com"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "typescript",
+    "cli",
+    "command",
+    "line",
+    "interface",
+    "component",
+    "components"
+  ],
+  "license": "ISC",
+  "bin": {
+    "rtcli": "./src/index.js"
+  },
+  "dependencies": {
+    "chalk": "2.1.0",
+    "commander": "2.11.0",
+    "fs": "0.0.1-security",
+    "path": "0.12.7"
+  }
+}

@@ -1,0 +1,4 @@
+src/action
+src/page
+node_modules
+.ds_store
